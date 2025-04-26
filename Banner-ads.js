@@ -27,7 +27,7 @@
         </div>
       </div>
       <a href="https://www.adsairo.com" target="_blank" style="display:block; height:100%; width:100%;">
-        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/...gif" alt="Ad" style="width:100%; height:100%; object-fit:cover;">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQmL32rwX-S3QOwWL0v_v3NkkA1x3QZxPaXGG832oZgAnDXUB3nQ6d3PMbBx_RtXyvIhXKpUKImcUR-TFe8OiBuj0cOedY82KMCZCWuN2rjtgp0eZe66-2kzjp2eeL6wdHzF4KacR7tdND3Sk7bT_ks883dG8d2WZNcicEYF_vmeP7I6drOWoNGmPAWwI/s1600/MonetizeyourblogtodaywithAdsAiro-ezgif.com-video-to-gif-converter.gif" alt="Ad" style="width:100%; height:100%; object-fit:cover;">
       </a>
     </div>
 
@@ -35,7 +35,7 @@
     <div id="adFeedbackBox" style="display:none; width:728px; border:1px solid #d3d3d3; border-radius:6px; font-family: Arial, sans-serif; padding:10px; margin-top:8px; background:#fff; font-size:13px; color:#444; text-align:center;">
       <div id="adsByLogo" style="margin-bottom:10px; display:flex; align-items:center; justify-content:center; gap:6px; color:#000000; font-weight:bold;">
         <span>Ads by</span>
-        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/...logo.png" alt="logo" style="width:65px; height:auto;">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIzRgJuKvuTYOG6Q68jUzJPekP3kMeqrxN2qPnKXhES0XgBVFQeMR3hglGO9QwXoQd_CIZbmvRr6ywPfETsd9zKTejLz16z9zMiS9Slij150GzouxjHTjyfVv6uXmcbttDAPMv6maWSMOa9vyi7LppUYgmwM1BWinbXHvEj0-LMJXqwlNhoivw6UTKKnrL/s1600/PSKathait_dark.png" alt="logo" style="width:65px; height:auto;">
       </div>
       <div id="feedbackButtons" style="display:flex; justify-content:center; gap:10px; margin-bottom:15px;">
         <a href="#" onclick="showFeedbackOptions(); return false;" style="background-color:#4285f5; color:#fff; padding:6px 12px; border-radius:4px; text-decoration:none; font-weight:bold;">Send feedback</a>
